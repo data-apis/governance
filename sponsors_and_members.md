@@ -34,6 +34,5 @@ Members with affiliations:
 - Athan Reines - Quansight
 - Saul Shanabrook - Quansight
 - Travis Oliphant - Quansight
-- Anthony Scopatz - Quansight
 
 _TBD: given how we defined Members, should we have this many Quansight people listed? Or should we add something to the criteria to become a Member?_
