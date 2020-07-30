@@ -34,7 +34,8 @@ Membership in the Consortium can be gained by invitation from the existing membe
 
 - A relevant open source project, that falls under the scope of a Consortium
   API standard (existing or being developed). Currently this includes
-  array/tensor and dataframe libraries.
+  array/tensor and dataframe libraries. What "relevant" means is hard to
+  quantify in a metric, this will be decided upon by the existing Members.
 - A Consortium Sponsor (see next section).
 
 The initial set of Members has been put together with the following approach:
@@ -75,11 +76,18 @@ articulate both the reason for that concern and what the proposer can do to
 address the concern.
 
 If consensus cannot be reached and a decision must be taken, Members will
-decide by a simple majority vote in the weekly members' meeting (see below).
-The decision will be documented in the meeting minutes. Members are urged to
-keep in mind the value of consensus, and consider all reasonable alternatives
-- decisions taken with significant dissent are likely to run into similar
-concerns in the future.
+decide by a simple majority vote on the mailing list, with a one week window
+for casting votes. The vote proposer will be responsible for documenting
+the outcome of the vote on the relevant GitHub issue or pull request. Members
+are urged to keep in mind the value of consensus, and consider all reasonable
+alternatives - decisions taken with significant dissent are likely to run
+into similar concerns in the future.
+
+### Changes to this governance document
+
+Decision making on governance changes will follow the decision making procedure
+described above (striving for consensus, voting if necessary), except that a
+change proposal requires 80% of the votes to be accepted.
 
 
 ## Organization
@@ -105,3 +113,4 @@ Quansight Labs is the public benefit division of Quansight, with a mission to
 support and improve projects in and community around the PyData ecosystem. It
 acts as a steward for the Consortium assets and funding, and will be
 accountable to Sponsors for received funding.
+
