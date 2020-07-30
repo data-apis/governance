@@ -40,7 +40,7 @@ Membership in the Consortium can be gained by invitation from the existing membe
 
 The initial set of Members has been put together with the following approach:
 
-- We considered all of the most popular array and dataframe libraries.
+- We considered the most popular array and dataframe libraries.
 - We then divided those up into community-driven and company-backed.
   _This is mostly clear based on project governance, but there is some grey area - in those cases we erred on the side of considering those projects community-driven._
 - We have made sure to invite at least one key contributor from each community-driven project.
@@ -56,7 +56,7 @@ _To decide later: membership renewal/expiration_
 ### Sponsors
 
 Developing API standards requires a significant amount of engineering work
-and technical writing. That in turn requires funding. Sponsors provide that
+and technical writing, which in turn requires funding. Sponsors provide that
 funding. Sponsors will nominate up to three representatives as Members.
 Sponsors will be publicly acknowledged on the Consortium website. At this
 time there are no other Sponsor benefits - in case that changes, those
@@ -113,4 +113,3 @@ Quansight Labs is the public benefit division of Quansight, with a mission to
 support and improve projects in and community around the PyData ecosystem. It
 acts as a steward for the Consortium assets and funding, and will be
 accountable to Sponsors for received funding.
-
