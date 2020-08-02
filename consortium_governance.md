@@ -8,6 +8,14 @@ with related open source projects and the wider community.
 _Note: the Consortium is still early in its formation process, with repositories being open sourced and initial standards documents being drafted. We expect the main principles and overall structure of governance to evolve over the next year._
 
 
+## Purpose
+
+The purpose of the Consortium is to develop API standards for common Python
+data structures for scientific, data science and machine learning users and
+applications - using a combination of design discussions, requirements
+engineering and data-driven approaches.
+
+
 ## Principles
 
 The main principles of Consortium governance are:
@@ -57,7 +65,7 @@ _To decide later: membership renewal/expiration_
 
 Developing API standards requires a significant amount of engineering work
 and technical writing, which in turn requires funding. Sponsors provide that
-funding. Sponsors will nominate up to three representatives as Members.
+funding. Sponsors will nominate up to four representatives as Members.
 Sponsors will be publicly acknowledged on the Consortium website. At this
 time there are no other Sponsor benefits - in case that changes, those
 benefits will be documented in this governance document.
@@ -76,18 +84,19 @@ articulate both the reason for that concern and what the proposer can do to
 address the concern.
 
 If consensus cannot be reached and a decision must be taken, Members will
-decide by a simple majority vote on the mailing list, with a one week window
-for casting votes. The vote proposer will be responsible for documenting
-the outcome of the vote on the relevant GitHub issue or pull request. Members
-are urged to keep in mind the value of consensus, and consider all reasonable
-alternatives - decisions taken with significant dissent are likely to run
-into similar concerns in the future.
+decide by a simple majority vote on the [mailing list](https://groups.google.com/forum/#!forum/python-data-apis-consortium),
+with a one week window for casting votes and a majority defined as >50% of
+all votes cast by Members participating in that vote. The vote proposer will
+be responsible for documenting the outcome of the vote on the relevant GitHub
+issue or pull request. Members are urged to keep in mind the value of
+consensus, and consider all reasonable alternatives - decisions taken with
+significant dissent are likely to run into similar concerns in the future.
 
 ### Changes to this governance document
 
 Decision making on governance changes will follow the decision making procedure
 described above (striving for consensus, voting if necessary), except that a
-change proposal requires 80% of the votes to be accepted.
+change proposal requires 2/3rd of the votes from all Members to be accepted.
 
 
 ## Organization
@@ -98,13 +107,24 @@ The Consortium has a Chair, who is responsible for organizing Members
 meetings and ensuring the Consortium assets (e.g. GitHub org, website) are
 managed effectively.
 
+The Chair will be selected by Members through a simple majority vote (see
+"Decision making" above) for a period of 1 year. There must be a one week period
+between the announcement of the vote and voting starting; in that period
+any Member can be nominated or nominate themselves for the role of Chair.
+
 
 ### Meetings
 
 Members meetings are held weekly as video conference calls. At least ten
 Members must be present in a meeting for making decisions. Meeting minutes
 are kept in a document that can be collaboratively edited during the meeting,
-and stored in a public GitHub repository afterwards.
+and stored in a [public GitHub repository](https://github.com/pydata-apis/workgroup/tree/master/meeting_minutes)
+afterwards.
+
+Non-members may be invited to the meeting by the Chair as observers or
+participants. Typically this happens when those non-Members are considering
+joining as Members but have not yet done so, or are involved in the
+engineering or technical writing work for a Consortium project.
 
 
 ### Relationship with Quansight Labs
