@@ -55,7 +55,7 @@ The initial set of Members has been put together with the following approach:
 - We engaged all company-backed projects on an equal basis, asking them to
   become a Sponsor and join the Consortium.
 
-See [this document](https://github.com/pydata-apis/governance/blob/master/sponsors_and_members.md)
+See [this document](https://github.com/pydata-apis/governance/blob/master/members_and_sponsors.md)
 for a listing of the current Consortium Members.
 
 _To decide later: membership renewal/expiration_
@@ -70,7 +70,7 @@ Sponsors will be publicly acknowledged on the Consortium website. At this
 time there are no other Sponsor benefits - in case that changes, those
 benefits will be documented in this governance document.
 
-See [this document](https://github.com/pydata-apis/governance/blob/master/sponsors_and_members.md)
+See [this document](https://github.com/pydata-apis/governance/blob/master/members_and_sponsors.md)
 for a listing of the current Consortium Sponsors.
 
 
