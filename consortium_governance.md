@@ -40,10 +40,10 @@ Contributors, act collectively to:
 
 Membership in the Consortium can be gained by invitation from the existing membership body. Members can represent:
 
-- A relevant open source project, that falls under the scope of a Consortium
+- A relevant open source project that falls under the scope of a Consortium
   API standard (existing or being developed). Currently this includes
   array/tensor and dataframe libraries. What "relevant" means is hard to
-  quantify in a metric, this will be decided upon by the existing Members.
+  quantify in a metric; this will be decided upon by the existing Members.
 - A Consortium Sponsor (see next section).
 
 The initial set of Members has been put together with the following approach:
@@ -55,7 +55,7 @@ The initial set of Members has been put together with the following approach:
 - We engaged all company-backed projects on an equal basis, asking them to
   become a Sponsor and join the Consortium.
 
-See [this document](https://github.com/pydata-apis/governance/blob/master/members_and_sponsors.md)
+See [this document](https://github.com/data-apis/governance/blob/master/members_and_sponsors.md)
 for a listing of the current Consortium Members.
 
 _To decide later: membership renewal/expiration_
@@ -130,6 +130,6 @@ engineering or technical writing work for a Consortium project.
 ### Relationship with Quansight Labs
 
 Quansight Labs is the public benefit division of Quansight, with a mission to
-support and improve projects in and community around the PyData ecosystem. It
+support and improve both the projects in and the community around the PyData ecosystem. It
 acts as a steward for the Consortium assets and funding, and will be
 accountable to Sponsors for received funding.

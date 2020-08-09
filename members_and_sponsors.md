@@ -29,7 +29,7 @@ Members with affiliations:
 - Sheng Zha - Apache MXNet, ONNX
 - Jeff Reback - Pandas, Ibis
 - Maarten Breddels - Vaex
-- Joris Van den Bossche (Pandas, GeoPandas, Apache Arrow)
+- Joris Van den Bossche - Pandas, GeoPandas, Apache Arrow
 - Ralf Gommers - Quansight, NumPy (_Consortium Chair_)
 - Marc Garcia - Quansight, Pandas, Ibis
 - Athan Reines - Quansight
