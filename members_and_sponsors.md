@@ -6,8 +6,6 @@ Sponsors:
 - Microsoft
 - Google Research (note: listed logos will be TensorFlow/JAX)
 - The D. E. Shaw group
-- OmniSci
-- Anaconda
 - Quansight
 
 Members with affiliations:
@@ -24,8 +22,8 @@ Members with affiliations:
 - Adam Paszke - Google Research, PyTorch, JAX
 - Arvid Bessen - The D. E. Shaw group
 - Tiankai Tu - The D. E. Shaw group
-- Tom Augspurger - Anaconda, Dask, Pandas
-- Alex Baden - OmniSci
+- Tom Augspurger - Dask, Pandas
+- Alex Baden - OmniSciDB
 - Sheng Zha - Apache MXNet, ONNX
 - Jeff Reback - Pandas, Ibis
 - Maarten Breddels - Vaex
