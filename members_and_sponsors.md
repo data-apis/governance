@@ -34,4 +34,4 @@ Members with affiliations:
 - Marc Garcia - Quansight, Pandas, Ibis
 - Athan Reines - Quansight
 - Saul Shanabrook - Quansight
-- Keith Krauss - cuDF
+- Keith Kraus - cuDF
