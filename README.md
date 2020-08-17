@@ -12,9 +12,5 @@ work that may be funded by for-profit or non-profit entities.
 
 ## Table of Contents
 
-_TODO: lists of links to documents_
-
-
-## License of Governance Documents
-
-TODO
+- [Main governance document](consortium_governance.md)
+- [Members and sponsors](members_and_sponsors.md)
