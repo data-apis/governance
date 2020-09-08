@@ -33,3 +33,6 @@ Members with affiliations:
 - Athan Reines - Quansight
 - Saul Shanabrook - Quansight
 - Keith Kraus - cuDF
+- Hyukjin Kwon - Apache Spark, Koalas
+- Takuya Ueshin - Apache Spark, Koalas
+- Xiao Li - Apache Spark
