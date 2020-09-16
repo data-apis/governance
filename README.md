@@ -14,3 +14,4 @@ work that may be funded by for-profit or non-profit entities.
 
 - [Main governance document](consortium_governance.md)
 - [Members and sponsors](members_and_sponsors.md)
+- [Process document](process_document.md)
