@@ -17,7 +17,7 @@ Members with affiliations:
 - Markus Weimer - Microsoft, MXNet
 - Andreas Mueller - Microsoft
 - Paige Bailey - Google Research, TensorFlow, JAX
-- Alex Passos - Google Research, TensorFlow
+- Ashish Agarwal - Google Research, TensorFlow
 - Stephan Hoyer - Google Research, JAX, NumPy, XArray
 - Adam Paszke - Google Research, PyTorch, JAX
 - Arvid Bessen - The D. E. Shaw group
@@ -29,7 +29,6 @@ Members with affiliations:
 - Maarten Breddels - Vaex
 - Joris Van den Bossche - Pandas, GeoPandas, Apache Arrow
 - Ralf Gommers - Quansight, NumPy (_Consortium Chair_)
-- Marc Garcia - Quansight, Pandas, Ibis
 - Athan Reines - Quansight
 - Saul Shanabrook - Quansight
 - Keith Kraus - cuDF
