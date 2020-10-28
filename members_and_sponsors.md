@@ -30,7 +30,8 @@ Members with affiliations:
 - Joris Van den Bossche - Pandas, GeoPandas, Apache Arrow
 - Ralf Gommers - Quansight, NumPy (_Consortium Chair_)
 - Athan Reines - Quansight
-- Saul Shanabrook - Quansight
+- Stephannie Jiménez Gacha - Quansight
+- Aaron Meurer - Quansight
 - Keith Kraus - cuDF
 - Hyukjin Kwon - Apache Spark, Koalas
 - Takuya Ueshin - Apache Spark, Koalas
