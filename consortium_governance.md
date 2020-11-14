@@ -55,7 +55,7 @@ The initial set of Members has been put together with the following approach:
 - We engaged all company-backed projects on an equal basis, asking them to
   become a Sponsor and join the Consortium.
 
-See [this document](https://github.com/data-apis/governance/blob/master/members_and_sponsors.md)
+See [this document](https://github.com/data-apis/governance/blob/main/members_and_sponsors.md)
 for a listing of the current Consortium Members.
 
 _To decide later: membership renewal/expiration_
@@ -70,7 +70,7 @@ Sponsors will be publicly acknowledged on the Consortium website. At this
 time there are no other Sponsor benefits - in case that changes, those
 benefits will be documented in this governance document.
 
-See [this document](https://github.com/pydata-apis/governance/blob/master/members_and_sponsors.md)
+See [this document](https://github.com/pydata-apis/governance/blob/main/members_and_sponsors.md)
 for a listing of the current Consortium Sponsors.
 
 
@@ -118,7 +118,7 @@ any Member can be nominated or nominate themselves for the role of Chair.
 Members meetings are held weekly as video conference calls. At least ten
 Members must be present in a meeting for making decisions. Meeting minutes
 are kept in a document that can be collaboratively edited during the meeting,
-and stored in a [public GitHub repository](https://github.com/pydata-apis/workgroup/tree/master/meeting_minutes)
+and stored in a [public GitHub repository](https://github.com/data-apis/workgroup/tree/main/meeting_minutes)
 afterwards.
 
 Non-members may be invited to the meeting by the Chair as observers or
