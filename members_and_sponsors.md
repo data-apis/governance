@@ -36,4 +36,4 @@ Members with affiliations:
 - Hyukjin Kwon - Apache Spark, Koalas
 - Takuya Ueshin - Apache Spark, Koalas
 - Xiao Li - Apache Spark
-- Leo Fang - Brookhaven Nat'l Lab, CuPy, mpi4py
+- Leo Fang - CuPy
