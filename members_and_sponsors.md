@@ -21,7 +21,6 @@ Members with affiliations:
 - Stephan Hoyer - Google Research, JAX, NumPy, XArray
 - Adam Paszke - Google Research, PyTorch, JAX
 - Arvid Bessen - The D. E. Shaw group
-- Tiankai Tu - The D. E. Shaw group
 - Tom Augspurger - Dask, Pandas
 - Alex Baden - OmniSciDB
 - Sheng Zha - Apache MXNet, ONNX
