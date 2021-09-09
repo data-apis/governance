@@ -7,16 +7,16 @@ Sponsors:
 - Google Research (note: listed logos will be TensorFlow/JAX)
 - The D. E. Shaw group
 - Quansight
+- LG Electronics
 
 Members with affiliations:
 
 - Areg Melik-Adamyan - Intel
 - Oleksandr Pavlyk - Intel
-- Devin Petersohn - Intel, Modin
+- Devin Petersohn - Modin
 - Carlo Curino - Microsoft
 - Markus Weimer - Microsoft, MXNet
 - Andreas Mueller - Microsoft
-- Paige Bailey - Google Research, TensorFlow, JAX
 - Ashish Agarwal - Google Research, TensorFlow
 - Stephan Hoyer - Google Research, JAX, NumPy, XArray
 - Adam Paszke - Google Research, PyTorch, JAX
@@ -32,6 +32,7 @@ Members with affiliations:
 - Stephannie Jiménez Gacha - Quansight
 - Aaron Meurer - Quansight
 - Keith Kraus - cuDF
+- Ashwin Srinath - cuDF
 - Hyukjin Kwon - Apache Spark, Koalas
 - Takuya Ueshin - Apache Spark, Koalas
 - Xiao Li - Apache Spark
