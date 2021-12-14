@@ -37,3 +37,4 @@ Members with affiliations:
 - Takuya Ueshin - Apache Spark, Koalas
 - Xiao Li - Apache Spark
 - Leo Fang - NVIDIA, CuPy
+- Mike McCarty - NVIDIA
