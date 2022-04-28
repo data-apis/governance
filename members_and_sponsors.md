@@ -8,6 +8,7 @@ Sponsors:
 - The D. E. Shaw group
 - Quansight
 - LG Electronics
+- Bodo
 
 Members with affiliations:
 
@@ -38,3 +39,6 @@ Members with affiliations:
 - Xiao Li - Apache Spark
 - Leo Fang - NVIDIA, CuPy
 - Mike McCarty - NVIDIA
+- Ehsan Totoni - Bodo
+- Hadia Ahmed - Bodo
+- Emaan Hariri - Bodo
