@@ -8,7 +8,7 @@ Sponsors:
 - The D. E. Shaw group
 - Quansight
 - LG Electronics
-- Bodo
+- Bodo.ai
 
 Members with affiliations:
 
