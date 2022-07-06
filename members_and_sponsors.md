@@ -32,6 +32,7 @@ Members with affiliations:
 - Athan Reines - Quansight
 - Stephannie Jiménez Gacha - Quansight
 - Aaron Meurer - Quansight
+- Keith Kraus - cuDF
 - Ashwin Srinath - NVIDIA, cuDF
 - Hyukjin Kwon - Apache Spark, Koalas
 - Takuya Ueshin - Apache Spark, Koalas
