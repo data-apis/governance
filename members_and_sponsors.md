@@ -28,12 +28,12 @@ Members with affiliations:
 - Jeff Reback - Pandas, Ibis
 - Maarten Breddels - Vaex
 - Joris Van den Bossche - Pandas, GeoPandas, Apache Arrow
-- Ralf Gommers - Quansight, NumPy (_Consortium Chair_)
+- Ralf Gommers - Quansight, NumPy, PyTorch (_Consortium Chair_)
 - Athan Reines - Quansight
 - Stephannie Jiménez Gacha - Quansight
 - Aaron Meurer - Quansight
 - Keith Kraus - cuDF
-- Ashwin Srinath - cuDF
+- Ashwin Srinath - NVIDIA, cuDF
 - Hyukjin Kwon - Apache Spark, Koalas
 - Takuya Ueshin - Apache Spark, Koalas
 - Xiao Li - Apache Spark
@@ -42,3 +42,6 @@ Members with affiliations:
 - Ehsan Totoni - Bodo
 - Hadia Ahmed - Bodo
 - Emaan Hariri - Bodo
+- Matthew Roeschke - NVIDIA, Pandas
+- Sebastian Berg - NumPy
+- Mario Lezcano Casado - Quansight, PyTorch
