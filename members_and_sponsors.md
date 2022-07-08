@@ -45,3 +45,5 @@ Members with affiliations:
 - Matthew Roeschke - NVIDIA, Pandas
 - Sebastian Berg - NumPy
 - Mario Lezcano Casado - Quansight, PyTorch
+- Vasily Litvinov - Modin
+- Brock Mendel - Intel, Pandas
