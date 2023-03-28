@@ -47,3 +47,5 @@ Members with affiliations:
 - Mario Lezcano Casado - Quansight, PyTorch
 - Vasily Litvinov - Modin
 - Brock Mendel - Intel, Pandas
+- Ritchie Vink - Polars
+- Stijn de Gooijer - Polars
