@@ -45,7 +45,7 @@ Members with affiliations:
 - Matthew Roeschke - NVIDIA, Pandas
 - Sebastian Berg - NumPy
 - Mario Lezcano Casado - Quansight, PyTorch
-- Vasily Litvinov - Modin
-- Brock Mendel - Intel, Pandas
 - Ritchie Vink - Polars
 - Stijn de Gooijer - Polars
+- Dmitry Chigarev - Intel, Modin
+- Anatoly Myachev - Intel, Modin
