@@ -39,6 +39,7 @@ Members with affiliations:
 - Xiao Li - Apache Spark
 - Leo Fang - NVIDIA, CuPy
 - Mike McCarty - NVIDIA
+- Tim Head - scikit-learn, NVIDIA
 - Ehsan Totoni - Bodo
 - Hadia Ahmed - Bodo
 - Emaan Hariri - Bodo
