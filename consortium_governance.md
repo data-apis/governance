@@ -42,7 +42,8 @@ Membership in the Consortium can be gained by invitation from the existing membe
 
 - A relevant open source project that falls under the scope of a Consortium
   API standard (existing or being developed). Currently this includes
-  array/tensor and dataframe libraries. What "relevant" means is hard to
+  array/tensor and dataframe libraries, and libraries that are array consumers
+  through the array API standard. What "relevant" means is hard to
   quantify in a metric; this will be decided upon by the existing Members.
 - A Consortium Sponsor (see next section).
 
