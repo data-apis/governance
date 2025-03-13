@@ -21,6 +21,7 @@ Members with affiliations:
 - Ashish Agarwal - Google Research, TensorFlow
 - Stephan Hoyer - Google Research, JAX, NumPy, XArray
 - Adam Paszke - Google Research, PyTorch, JAX
+- Jake Vanderplas - Google Research, JAX
 - Arvid Bessen - The D. E. Shaw group
 - Tom Augspurger - Dask, Pandas
 - Alex Baden - OmniSciDB
@@ -30,7 +31,6 @@ Members with affiliations:
 - Joris Van den Bossche - Pandas, GeoPandas, Apache Arrow
 - Ralf Gommers - Quansight, NumPy, PyTorch (_Consortium Chair_)
 - Athan Reines - Quansight
-- Stephannie Jiménez Gacha - Quansight
 - Aaron Meurer - Quansight
 - Keith Kraus - cuDF
 - Ashwin Srinath - NVIDIA, cuDF
@@ -50,3 +50,5 @@ Members with affiliations:
 - Brock Mendel - Intel, Pandas
 - Ritchie Vink - Polars
 - Stijn de Gooijer - Polars
+- Lucas Colley - SciPy
+- Evgeni Burovski - SciPy, Quansight
